@@ -12,7 +12,7 @@ This guide explains how to install, configure, and execute the Contribution Grap
 
 1. Clone the repository
  ```bash
-   git clone https://github.com/Giaxasidis/contribution-graph.git
+   git clone https://github.com/Giachasidis/contribution-graph.git
    cd contribution-graph
 ````
 
