@@ -22,7 +22,7 @@ It intelligently distributes commits based on trends and configurable ratios cre
 
 ```bash
 # Clone the repository
-git clone https://github.com/Giaxasidis/contribution-graph.git
+git clone https://github.com/Giachasidis/contribution-graph.git
 cd contribution-graph
 
 # Install dependencies
